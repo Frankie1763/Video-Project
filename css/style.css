@@ -1,0 +1,25 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.btn {
+  display: none;
+}
+
+#pause {
+  display: block;
+  opacity: 0.5;
+}
+
+button {
+  position: absolute;
+  opacity: 0;
+}
+button:hover {
+  position: absolute;
+  opacity: 0.3;
+}
